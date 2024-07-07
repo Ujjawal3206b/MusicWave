@@ -1,6 +1,8 @@
 # BookNook - E-Book Reading Website
 BookNook is an interactive e-book reading website designed to provide users with a seamless and immersive reading experience. The website is built using HTML, CSS, and JavaScript.
 
+## Screenshots
+
 ## Features
 User Authentication: Secure login and sign-up functionality.
 Seamless Transactions: Easy purchasing and subscribing to e-books.
